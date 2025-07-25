@@ -1,0 +1,14 @@
+   pandas
+   requests
+   spacy
+   nltk
+   matplotlib
+   seaborn
+   wordcloud
+   reportlab
+   geopy
+   tqdm
+   streamlit
+   folium
+   streamlit-folium
+   PyPDF2
