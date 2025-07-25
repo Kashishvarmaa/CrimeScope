@@ -141,6 +141,4 @@ Features include:
 
 ---
 
-## License
 
-[MIT License] (or specify your license here)
